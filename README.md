@@ -7,7 +7,7 @@
 - 📫 Contato-me por e-mail: sandro.toline@gmail.com
 
 <div align="justify">
-  <a href="https://github.com/sandrotoline">
+  <a href="beacons.ai/t0line">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrotoline&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrotoline&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
