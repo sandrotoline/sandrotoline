@@ -25,8 +25,10 @@
 </div>
 
 ##
-
 <div>
+<img height="180em" src="https://wakatime.com/badge/user/4615c606-1b13-4f90-aece-40ed2c2654b6.svg" />
+</div>
+ <div>
   <a href="https://instagram.com/t0line" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sandro.toline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sandro-toline-149997115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
