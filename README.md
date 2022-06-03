@@ -17,6 +17,7 @@
   <img align="center" alt="Sandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Sandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sandro-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original.svg">
   <img align="center" alt="Sandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sandro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
@@ -26,8 +27,8 @@
 
 ##
 <div>
-<img src="https://wakatime.com/badge/user/4615c606-1b13-4f90-aece-40ed2c2654b6.svg" alt="Total time coded since Jun 03 2022" />  
-</div>
+  <img align="center" alt="Sandro-WakaTime" src="https://wakatime.com/badge/user/4615c606-1b13-4f90-aece-40ed2c2654b6.svg">
+ </div>
  <div>
   <a href="https://instagram.com/t0line" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sandro.toline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
