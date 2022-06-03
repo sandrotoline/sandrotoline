@@ -27,6 +27,7 @@
 ##
 <div>
 <img height="180em" src="https://wakatime.com/badge/user/4615c606-1b13-4f90-aece-40ed2c2654b6.svg" />
+<img align="center" alt="Wakatime" height="30" width="40" src="https://wakatime.com/badge/user/4615c606-1b13-4f90-aece-40ed2c2654b6.svg" />  
 </div>
  <div>
   <a href="https://instagram.com/t0line" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
