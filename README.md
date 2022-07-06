@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje estou mais focado em Front End.
+- 🔭 Hoje estou focado em Front End.
 - 🌱 Estudando principalmente Frameworks: React, Vue, Next etc...
 - 📫 Contato-me por e-mail: sandro.toline@gmail.com
 
